@@ -1,0 +1,22 @@
+Infinity Dapp
+
+A Dapp For The Future, Running On Ether
+
+What It Is Made Of:
+
+- Truffle Framework
+- React JS
+- Solidity
+
+Running The DAPP:
+
+- npm install -g ethereumjs-testrpc
+- npm install
+- testrpc
+- npm run start
+
+Hypothesis:
+
+- Runnng On A Test Network
+- Adding Points Via A GUI Exposed By The Server
+- Adding Points Tho Th Test Blockchain Via The GUI
